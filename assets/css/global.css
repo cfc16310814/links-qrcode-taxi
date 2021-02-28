@@ -96,3 +96,15 @@ body{
 .valores ul li span{
     font-size: 20px;
 }
+.pagamentos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+}
+.promocao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+}
